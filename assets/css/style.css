@@ -149,7 +149,7 @@ footer {
     margin: 0;
 }
 
-.cv.pdf a {
+.cv.pdf i {
     font-size: 18px;
     color: #fafafa;
     text-align: center;
@@ -160,7 +160,7 @@ footer {
     -o-transition: all 0.35s ease-in-out;
 }
 
-.cv.pdf a:hover {
+.cv.pdf i:hover {
     background-color: #e84610;
 }
 
